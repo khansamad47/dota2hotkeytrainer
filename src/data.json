@@ -1,0 +1,45 @@
+{
+    "keys" : [
+        {
+            "key"    : "q",
+            "string" : "Spell 1"
+        },
+        {
+            "key"    : "w",
+            "string" : "Spell 2"
+        },
+        {
+            "key"    : "e",
+            "string" : "Spell 3"
+        },
+        {
+            "key"    : "r",
+            "string" : "Spell 4"
+        },
+        {
+            "key"    : "1",
+            "string" : "Item 1"
+        },
+        {
+            "key"    : "2",
+            "string" : "Item 2"
+        },
+        {
+            "key"    : "3",
+            "string" : "Item 3"
+        },
+        {
+            "key"    : "4",
+            "string" : "Item 4"
+        },
+        {
+            "key"    : "a",
+            "string" : "Attack"
+        },
+        {
+            "key"    : "s",
+            "string" : "Stop"
+        }
+    ]
+}
+    
